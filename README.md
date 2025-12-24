@@ -17,3 +17,7 @@ The application was tested under the following conditions:
 - Valid city input
 - Invalid city input
 - No internet connection
+
+<p align = "center">
+  <img src = "Images/weather_app.png" width = "750">
+</p>
