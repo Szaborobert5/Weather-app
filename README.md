@@ -21,3 +21,20 @@ The application was tested under the following conditions:
 <p align = "center">
   <img src = "Images/weather_app.png" width = "750">
 </p>
+
+# 🖥 Application Flow
+
+1. User launches the application  
+2. User enters a city name  
+3. Application validates input  
+4. Weather data is fetched from the API  
+5. Temperature, description, and emoji are displayed  
+6. Errors are shown if input or connection fails
+
+# 🔮 Future Improvements
+
+- Multi-day weather forecast
+- Additional data (humidity, wind speed, sunrise/sunset)
+- Automatic refresh using timers
+- Multi-language support
+- Packaging as a standalone executable
